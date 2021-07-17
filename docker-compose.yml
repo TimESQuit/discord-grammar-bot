@@ -6,10 +6,6 @@ services:
     container_name: languagetool
     ports:
       - 8010:8010
-  #   environment:
-  #     - langtool_languageModel=/ngrams
-  #   volumes:
-  #     - /home/tim/Code/grammar_bot/LT/ngrams:/ngrams
   bot:
     build: .
     container_name: your_grammar_bot
