@@ -1,5 +1,6 @@
 __pycache__/
 .env
 *.db
-logs/*
 LT/
+logs/*
+!logs/placeholder.txt
