@@ -1,0 +1,12 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/home/tim/.local/share/virtualenvs/grammar_bot-85JocHmc/bin/python",
+    "python.languageServer": "Pylance",
+    "python.autoComplete.extraPaths": [
+        "./grammar_bot",
+    ],
+    "python.analysis.extraPaths": [
+        "./grammar_bot"
+    ],
+}
