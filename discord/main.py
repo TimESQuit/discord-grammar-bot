@@ -33,9 +33,9 @@ async def startup():
     intents = discord.Intents.default()
     intents.members = True
     bot = commands.Bot(
-        command_prefix="!",
+        command_prefix="gb!",
         intents=intents,
-        activity=discord.Activity(type=discord.ActivityType.listening, name="!help"),
+        activity=discord.Activity(type=discord.ActivityType.listening, name="gb!help"),
     )
 
     if os.path.exists(DB_DIR):
