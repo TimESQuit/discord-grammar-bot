@@ -1,7 +1,9 @@
 # discord-grammar-bot
 
-x-special/nautilus-clipboard
-cut
-file:///home/tim/Code/portfolio_v2/portfolio_v2/public/videos/BaseballShowcase.mp4
+
+
+https://user-images.githubusercontent.com/55008059/130125266-95afa0f5-2776-46eb-bce7-fd28510bc087.mp4
+
+
 
 Coming soon
